@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Documents\\programs\\cs\\TestSolution\\src\\src.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\Test\\src\\src.csproj",
       "projectName": "src",
-      "projectPath": "C:\\Users\\hp\\Documents\\programs\\cs\\TestSolution\\src\\src.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\Test\\src\\src.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Documents\\programs\\cs\\TestSolution\\src\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\Test\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
